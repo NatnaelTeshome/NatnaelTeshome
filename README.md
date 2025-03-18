@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im currently a junior studying CS at Harvard College. I enjoy developing and optimizing software. I've also developed a strong theoretical and practical knowledge of different forms of machine learning.
+Im currently a senior studying CS at Harvard College. I enjoy developing and optimizing software. I've also developed a strong theoretical and practical knowledge of different forms of machine learning.
 
 <!--
 **NatnaelTeshome/NatnaelTeshome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
